@@ -1,6 +1,8 @@
 # Hi, welcome to Peng Ju's Github page
 I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdue Univeristy (2018.08~2024.05).
 
+While my research focus on nanofabrication and optical levitation, I am fasinated about Machine learning and Computer vision.
+
 
 
 <!---
