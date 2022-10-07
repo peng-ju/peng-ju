@@ -1,4 +1,4 @@
-# Hi, Welcome to Peng Ju's Github page
+# Hi, welcome to Peng Ju's Github page
 I am Peng Ju. A PhD candidate in Physics. 
 
 <!---
