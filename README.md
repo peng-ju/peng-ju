@@ -1,5 +1,6 @@
 # Hi, welcome to Peng Ju's Github page
-I am currently a PhD candidate in Physics working with Prof. Tongcang Li.
+I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdue.
+
 
 
 <!---
