@@ -4,7 +4,6 @@ I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdu
 While my research focus on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.
 
 
-
 <!---
 peng-ju/peng-ju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
