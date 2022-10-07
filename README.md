@@ -3,7 +3,7 @@ I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdu
 
 While my research focus on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.
 
-Data analysis and numerical simulation are powerful tools to understand the physics.
+% Data analysis and numerical simulation are powerful tools to understand the physics phenomenon.
 
 <!---
 peng-ju/peng-ju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
