@@ -3,8 +3,9 @@ I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdu
 
 While my research focus on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.
 
-![](https://komarev.com/ghpvc/?username=peng-ju&label=PROFILE+VIEWS)
+Contact me via: ju26@purdue.edu
 
+![](https://komarev.com/ghpvc/?username=peng-ju&label=PROFILE+VIEWS)
 
 <!---
 % Data analysis and numerical simulation are powerful tools to understand the physics phenomenon.
