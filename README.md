@@ -3,6 +3,7 @@ I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdu
 
 While my research focus on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.
 
+![](https://komarev.com/ghpvc/?username=peng-ju&label=PROFILE+VIEWS)
 
 
 <!---
