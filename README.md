@@ -1,7 +1,7 @@
 # Hi, welcome to Peng Ju's Github page
 I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdue Univeristy (2018.08~2024.05).
 
-While my research focus on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.  
+While my PhD thesis is on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.  
 
 In the meanwhile, I am a Graduate Data Science Researcher at [The Data Mine, Purdue University](https://datamine.purdue.edu/). Collaborated with the [Howmet Aerospace](https://www.howmet.com/), my reserch focuses on casting (engine blade) anomaly detection from X-Ray images with computer vision and deep learning.
 
