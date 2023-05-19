@@ -3,7 +3,9 @@ I am currently a PhD candidate in Physics working with Prof. Tongcang Li @ Purdu
 
 While my PhD thesis is on nanofabrication and optical levitation, I am fascinated about Machine learning and Computer vision.  
 
-In the meanwhile, I am a Graduate Data Science Researcher at [The Data Mine, Purdue University](https://datamine.purdue.edu/). Collaborated with the [Howmet Aerospace](https://www.howmet.com/), my reserch focuses on casting (engine blade) anomaly detection from X-Ray images with computer vision and deep learning.
+In the meanwhile, I am a Graduate Data Science Researcher at [The Data Mine, Purdue University](https://datamine.purdue.edu/) (2023.01 ~ 2023.05). Collaborated with the [Howmet Aerospace](https://www.howmet.com/), my reserch focuses on casting (engine blade) anomaly detection from X-Ray images with computer vision and deep learning.
+
+Starting from 2023-05, I am working with [The Data Mine, Purdue University](https://datamine.purdue.edu/) and [Eli Lilly and Company](https://www.lilly.com/) on a data engineering project.
 
 Contact me via: ju26@purdue.edu
 
