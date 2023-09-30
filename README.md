@@ -7,6 +7,7 @@ Starting from 2023-05, I am working as Purdue Data Mine Graduate Research Assist
 
 - Built pipelines to automate meta data extraction from images/videos with Apache Airflow, Kubernetes, MinIO, Docker.
 - Extracted metadata from images/videos with fine-tuned optical character recognition (OCR) models.
+- Developing statistics-based data anomaly detection algorithm.
 
 Contact me via: ju26@purdue.edu
 
