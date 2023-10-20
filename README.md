@@ -7,7 +7,7 @@ Starting from 2023-05, I am working as Graduate Research Assistant at [The Data 
 
 - Built pipelines to automate meta data extraction from images/videos with Apache Airflow, Kubernetes, MinIO, Docker.
 - Extracted metadata from images/videos with fine-tuned optical character recognition (OCR) models.
-- Developing statistics-based data anomaly detection algorithm.
+- Developing statistics-based data anomaly detection algorithm with PostgreSQL and pandas.
 
 Contact me via: ju26@purdue.edu
 
