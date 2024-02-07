@@ -10,7 +10,7 @@ From 2023-05 to 2023-12, I worked as Machine Learning Graduate Research Assistan
 - Developing statistics-based data anomaly detection algorithm with PostgreSQL and pandas.
 - Evaluate the performance of LLMs.
 
-Now, I am an AI research scientist intern at InfoBeyond Technology, working on advanced object detection system.
+Now, I am an AI research scientist intern at [InfoBeyond Technology](https://infobeyondtech.com/), working on advanced object detection system.
 
 Contact me via: ju26@purdue.edu
 
